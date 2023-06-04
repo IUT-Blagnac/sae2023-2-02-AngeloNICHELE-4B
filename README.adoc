@@ -176,12 +176,12 @@ Vous utiliserez le dépôt initial qui vous aura été attribué via classroom p
 [options="header"]
 |==========================================================================
 | #    | lien                                                     | langage  | catégorie  |  Type
-| 1    | link:src/main/java/exercice/efficacite_meilleur.java[efficacite_meilleur java]| Java     | Efficacité | Meilleur
-| 2    | link:src/main/java/exercice/efficacite_pire.java[efficacite_pire java]| Java     | Efficacité | Pire
-| 3    | link:src/main/java/exercice/simplicite_meilleur.java[simplicite_meilleur java]| Java     | Simplicité | Meilleur
-| 4    | link:src/main/java/exercice/simplicite_pire.java[simplicite_pire java]| Java     | Simplicité | Pire
-| 5    | link:src/main/java/exercice/sobriete_meilleur.java[sobriete_meilleur java]| Java     | Sobriété Numérique | Meilleur
-| 6    | link:src/main/java/exercice/sobriete_pire.java[sobriete_pire java]| Java     | Sobriété Numérique | Pire
+| 1    | link:src/main/java/exercice/efficacite-meilleur.java[efficacite-meilleur java]| Java     | Efficacité | Meilleur
+| 2    | link:src/main/java/exercice/efficacite-pire.java[efficacite-pire java]| Java     | Efficacité | Pire
+| 3    | link:src/main/java/exercice/simplicite-meilleur.java[simplicite-meilleur java]| Java     | Simplicité | Meilleur
+| 4    | link:src/main/java/exercice/simplicite-pire.java[simplicite-pire java]| Java     | Simplicité | Pire
+| 5    | link:src/main/java/exercice/sobriete-meilleur.java[sobriete-meilleur java]| Java     | Sobriété Numérique | Meilleur
+| 6    | link:src/main/java/exercice/sobriete-pire.java[sobriete-pire java]| Java     | Sobriété Numérique | Pire
 |==========================================================================
 
 === Phase 2 (deadline : **vendredi 16 juin 2023** à minuit)
